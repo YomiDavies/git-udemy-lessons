@@ -1,10 +1,13 @@
-# This is my README file for the Git Made Easy repo.
+# My Awesome Project
 
-## This course has multiple sections
+This project is a simple project to demonstrate how a README file works.
 
-1. Git Basics
-2. More Advanced Topics
-3. Other Information
+## Getting Started with Git
 
+To get Started, clone the repository:
 
-## Making a new change
+```bash
+git clone https://github.com/YomiDavies/git-udemy-lessons/blob/main/README.md
+```
+
+## How to use this repository
