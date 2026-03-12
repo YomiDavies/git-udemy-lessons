@@ -1,7 +1,7 @@
 # My Awesome Project
 
 This project is a simple project to demonstrate how a README file works.
-making changes for our pull request
+making changes for our Pull Request
 ## Getting Started with Git
 
 To get Started, clone the repository:
